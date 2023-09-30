@@ -2,4 +2,4 @@ This report provides a concise analysis of Apple's sustainability progress. It h
 
 The analysis involved Python for exploratory data analysis (EDA), Figma for designing the layout, and Tableau for data visualization.
 
-![Uploading Final.jpg…]()
+![Final](https://github.com/ahmadMuhammadGd/iSustain-Apple-s-Eco-Evolution-Toward-Net-Zero-Emission/assets/121247258/ddeb0c92-135d-4cc2-8937-4517c1a9e266)
