@@ -1,0 +1,37 @@
+Greenhouse gas emissions:
+Fiscal Year:
+Apple's fiscal calendar starts on the last Sunday of September and is 364 days long
+Category:
+Emissions are divided into two categories: corporate emissions and product life cycle emissions
+Type:
+There are two types of emissions data included: gross emissions (which add to the carbon footprint) and carbon removals (which subtract from the carbon footprint)
+Scope:
+There are three scopes: direct scope 1 emissions; indirect scope 2 emissions from purchased electricity, steam, heating, and cooling; and indirect scope 3 emissions from purchased goods and services, transportation and distribution, business travel, employee commute, product use, and end of life
+Description:
+The source of the greenhouse gas emissions
+Emissions:
+Greenhouse gas emissions (metric tons CO2e)
+
+
+
+Carbon footprint by product:
+Release Year:
+Year the product was released
+Product:
+Product name
+Baseline Storage:
+Lowest storage option
+Carbon Footprint:
+Greenhouse gas emissions from the product lige cycle (kg CO2e)
+
+
+
+Normalizing factors:
+Fiscal Year:
+Figures are as of the end of the fiscal year
+Revenue:
+Net sales (in millions, US$)
+Market Capitalization:
+Value of the company (in billions, US$)
+Employees:
+Number of full-time equivalent employees
